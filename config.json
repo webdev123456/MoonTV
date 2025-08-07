@@ -82,6 +82,11 @@
       "query": "治愈"
     },
     {
+      "name": "战争",
+      "type": "movie",
+      "query": "战争"
+    },
+    {
       "name": "热门",
       "type": "tv",
       "query": "热门"
