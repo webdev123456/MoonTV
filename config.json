@@ -131,7 +131,7 @@
       "type": "tv",
       "query": "纪录片"
     }
-  ]
+  ],
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
